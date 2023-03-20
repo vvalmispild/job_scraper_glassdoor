@@ -21,6 +21,7 @@ To use this script, call the glassdoor_scraper function and pass the following p
 * url: the Glassdoor job search url to scrape data from
 
 For example:
+
 url = "https://www.glassdoor.com/Job/germany-data-scientist-jobs-SRCH_IL.0,7_IN96_KO8,22.htm"
 glassdoor_scraper(num_job_cards=5, waiting_time=3, url=url)
 
