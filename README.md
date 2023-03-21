@@ -1,6 +1,6 @@
 ## Glassdoor Job Scraper
 
-This is a Python script to scrape job-related data from the Glassdoor job search website.
+This Python code uses Selenium to scrape job-related data from Glassdoor's job search results page. The data is then stored in a CSV file.
 
 ### Prerequisites: <br/>
 Before running the script, make sure you have the following libraries installed: <br/>
